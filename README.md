@@ -12,6 +12,8 @@ This project is a virtual reality MCQ test created using Python and the followin
 
 The Virtual Reality Quiz is a fun and interactive way to test your knowledge. The quiz is timed, and the user must answer all questions before the timer runs out.
 
+![image](https://github.com/ketan70/Virtual_Reality_Quiz/assets/92661810/f6fe9b4c-8e72-48b9-9450-87909f92ba7f)
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/virtual-reality-quiz.git`
